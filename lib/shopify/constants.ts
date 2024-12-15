@@ -1,0 +1,2 @@
+export const SHOPIFY_STOREFRONT_URL = process.env.NEXT_PUBLIC_SHOPIFY_STOREFRONT_URL || 'https://ejynhp-jw.myshopify.com/api/2024-01/graphql';
+export const SHOPIFY_STOREFRONT_TOKEN = process.env.NEXT_PUBLIC_SHOPIFY_STOREFRONT_TOKEN || 'bfd8749e03bce6d580b32103e15e6d5a';
